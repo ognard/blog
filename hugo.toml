@@ -1,0 +1,44 @@
+baseURL = 'https://ognard.github.io/ognard-site/'
+languageCode = 'en-us'
+title = 'ognard'
+
+theme = 'cactus'
+
+[params]
+	colortheme = "dark"
+	description = "Hi, I’m Bojan — a Cybersecurity / DevOps / IT enthusiast. This is my blog where I share everything I’m learning on my journey. Currently, I’m working through TryHackMe learning paths ([Jr. Penetration Tester completed](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NLXHYJGLDV.png)). I’m also open to job opportunities, so feel free to contact me if you’d like to collaborate!"
+	mainSection = "posts"
+	mainSectionTitle = "ognard@127.0.0.1 ~/posts $ ls -l"
+	showAllPostsOnHomePage = false
+	postsOnHomePage = 5
+	rss = true
+	css = ["css/custom.css"]
+
+[[params.social]]
+	name = "github"
+	link = "https://github.com/ognard"
+
+[[params.social]]
+	name = "linkedin"
+	link = "https://linkedin.com/in/drangovski"
+
+[[params.social]]
+	name = "web"
+	link = "https://drangovski.com" 
+
+[[params.social]]
+	name = "email"
+	link = "mailto:bojandrango@gmail.com" 
+
+
+
+[[menu.main]]
+name = "~"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "~/posts"
+url = "/posts"
+weight = 1
+

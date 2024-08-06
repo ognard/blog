@@ -158,7 +158,7 @@ Other than SELECT, the following are also available:
 - LIKE
 - BETWEEN
 
-> Check out [the documentation](https://osquery.readthedocs.io/en/stable/introduction/sql/) for more inormation on querying in Osquery.
+> Check out [the documentation](https://osquery.readthedocs.io/en/stable/introduction/sql/) for more information on querying in Osquery.
 
 ## Example queries
 ---

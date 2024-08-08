@@ -1,0 +1,19 @@
+{
+	"list": [
+		{
+			"name": "Jr. Penetration Tester",
+			"url": "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NLXHYJGLDV.png",
+			"desc": "@ TryHackMe"
+		},
+		{
+			"name": "Play It Safe: Manage Security Risks",
+			"url": "https://www.coursera.org/account/accomplishments/verify/Y3BFG5UGMLCV",
+			"desc": "@ Coursera / Google"
+		},
+		{
+			"name": "Foundation of Cybersecurity",
+			"url": "https://www.coursera.org/account/accomplishments/verify/CKZJP4H9R3DS",
+			"desc": "@ Coursera / Google"
+		}
+	]
+}

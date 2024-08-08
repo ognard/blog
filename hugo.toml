@@ -8,9 +8,11 @@ googleAnalytics = "G-1LZTT6FJTK"
 
 [params]
 	colortheme = "dark"
-	description = "Hi, I’m Bojan Drangovski — a Cybersecurity / DevOps / IT enthusiast. This is my blog where I share everything I’m learning on my journey. Currently, I’m working through TryHackMe learning paths ([Jr. Penetration Tester completed](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NLXHYJGLDV.png)). I’m also open to job opportunities, so feel free to contact me if you’d like to collaborate!"
+	description = "Hi, I’m Bojan — an IT enthusiast and aspiring Security Analyst. This is my blog where I share everything I’m learning on my journey. Currently learning: THM Cyber Defense path & AWS Solution Architect. I’m looking to expand my experience and am open to roles in IT, Security (Analyst), or Cloud-related fields."
 	mainSection = "posts"
-	mainSectionTitle = "ognard@localhost:~/posts$ ls -l"
+	mainSectionTitle = "posts"
+	projectsSectionTitle = "side projects"
+	certsSectionTitle = "achievements & certs"
 	showAllPostsOnHomePage = false
 	postsOnHomePage = 5
 	rss = true
@@ -47,5 +49,10 @@ weight = 1
 [[menu.main]]
 name = "~/posts"
 url = "/posts"
-weight = 1
+weight = 2
+
+[[menu.main]]
+name = "whoami"
+url = "/whoami"
+weight = 3
 

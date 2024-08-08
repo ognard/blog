@@ -1,0 +1,30 @@
+{
+	"list": [
+		{
+			"name": "Breaking Bad API",
+			"url": "https://github.com/drangovski/breaking-bad-api",
+			"desc": "- Fan project. A simple tool for DEA agents, to manage information about characters from the Breaking Bad/Better Call Saul universe."
+		},
+		{
+			"name": "Utility Cost Tracker",
+			"url": "https://github.com/drangovski/utility-cost-tracker",
+			"desc": "- Utility Cost Tracker connects various smart home devices to a Django application."
+		},
+		{
+			"name": "BoardGameGeek Rating Tracker",
+			"url": "https://github.com/drangovski/tracker",
+			"desc": "- A small Django app that uses the Board Game Geek API to track and visualize Board Game Geek ratings for selected games, as well as to send weekly and monthly reports for any changes in the ratings."
+		},
+		{
+			"name": "BackerCheck",
+			"url": "https://github.com/drangovski/backercheck",
+			"desc": "- Django app that uses Kickstarter’s campaign backers information file to organize, analyze, and visualize various statistics for a Kickstarter campaign's backers."
+		},
+		{
+			"name": "Data Projects",
+			"url": "https://github.com/bojandrango",
+			"desc": "- Here you'll find a few data gathering and exploration projects (SQL & Python)."
+
+		}
+	]
+}

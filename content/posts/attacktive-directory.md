@@ -6,7 +6,7 @@ slug = "exploitng-active-directory"
 
 ![Kerberos logo](/kerberos-logo.png)
 
-This will be a write-up post for the Attacktive Directory room on TryHackMe. It's a learning room in the Cyber Defense path, under the Threat Emulation section. The idea is to attempt to exploit a vulnerable Domain Controller in Active Directory.
+This will be a write-up post for the [Attacktive Directory](https://tryhackme.com/r/room/attacktivedirectory) room on [TryHackMe](https://tryhackme.com). It's a learning room in the Cyber Defense path, under the Threat Emulation section. The idea is to attempt to exploit a vulnerable Domain Controller in Active Directory.
 
 [Active Directory (AD)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview) is Microsoft's directory and identity management service designed for Windows domain networks. Introduced with Windows 2000 and included with most MS Windows Server operating systems, it is utilized by various Microsoft solutions such as Exchange Server and SharePoint Server, along with numerous third-party applications and services.
 

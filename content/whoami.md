@@ -21,5 +21,4 @@ Get in touch through ognard|at|proton|dot|me.
 ---
 - https://linkedin.com/in/drangovski
 - https://github.com/ognard
-- https://github.com/drangovski
 - https://drangovski.com

@@ -20,5 +20,7 @@ Get in touch through ognard|at|proton|dot|me.
 ## Links
 ---
 - https://linkedin.com/in/drangovski
+- https://tryhackme.com/p/ognard
 - https://github.com/ognard
+- https://github.com/drangovski
 - https://drangovski.com

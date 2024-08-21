@@ -1,6 +1,11 @@
 {
 	"list": [
 		{
+			"name": "Cyber Defense",
+			"url": "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GQHMYY3KML.png",
+			"desc": "@ TryHackMe"
+		},
+		{
 			"name": "Jr. Penetration Tester",
 			"url": "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NLXHYJGLDV.png",
 			"desc": "@ TryHackMe"

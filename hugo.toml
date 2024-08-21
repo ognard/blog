@@ -14,7 +14,7 @@ googleAnalytics = "G-1LZTT6FJTK"
 	projectsSectionTitle = "side projects"
 	certsSectionTitle = "achievements & certs"
 	showAllPostsOnHomePage = false
-	postsOnHomePage = 5
+	postsOnHomePage = 10
 	rss = true
 	css = ["css/custom.css"]
 

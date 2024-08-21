@@ -56,3 +56,4 @@ name = "whoami"
 url = "/whoami"
 weight = 3
 
+enableRobotsTXT = "true"

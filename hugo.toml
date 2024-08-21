@@ -5,7 +5,7 @@ title = 'ognard'
 theme = 'cactus'
 
 googleAnalytics = "G-1LZTT6FJTK"
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [params]
 	colortheme = "dark"

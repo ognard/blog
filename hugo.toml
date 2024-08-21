@@ -5,6 +5,7 @@ title = 'ognard'
 theme = 'cactus'
 
 googleAnalytics = "G-1LZTT6FJTK"
+enableRobotsTXT = true
 
 [params]
 	colortheme = "dark"
@@ -56,4 +57,3 @@ name = "whoami"
 url = "/whoami"
 weight = 3
 
-enableRobotsTXT = true

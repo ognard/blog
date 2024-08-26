@@ -1,6 +1,11 @@
 {
 	"list": [
 		{
+			"name": "API Security Fundamentals",
+			"url": "https://www.credly.com/badges/36510cf1-2a02-479e-b0ee-53d0e360119f",
+			"desc": "@ APIsec University"
+		},
+		{
 			"name": "Cyber Defense",
 			"url": "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GQHMYY3KML.png",
 			"desc": "@ TryHackMe"

@@ -1,6 +1,11 @@
 {
 	"list": [
 		{
+			"name": "OWASP API Security Top 10",
+			"url": "https://www.credly.com/badges/ce8848da-1a17-4e90-8731-bb6d001c105f",
+			"desc": "@ APIsec University"
+		},
+		{
 			"name": "API Security Fundamentals",
 			"url": "https://www.credly.com/badges/36510cf1-2a02-479e-b0ee-53d0e360119f",
 			"desc": "@ APIsec University"

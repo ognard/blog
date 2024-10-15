@@ -42,7 +42,7 @@ export AWS_SECRET_ACCESS_KEY
 export AWS_DEFAULT_REGION
 ```
 
-I also grab the name of the S3 bucket from the .env file:
+It also grabs the name of the S3 bucket from the .env file:
 
 ```
 bucket_name=$BUCKET_NAME

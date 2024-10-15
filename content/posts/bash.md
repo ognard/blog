@@ -8,7 +8,7 @@ slug = "building-bash-cloud-file-uploader"
 
 As part of my learning journey, I decided to get hands-on with a practical project—creating a script that automates file uploads from my local system to Amazon S3 using Bash. This project is a straightforward way to get familiar with cloud concepts while working directly with AWS services. Plus, it’s a great chance to improve my Bash scripting skills.
 
-In this blog post, I’ll take you through the script I built for uploading multiple files to S3, step by step. If you're following along with the Learn to Cloud guide, this project fits right in with the skills you're picking up.
+In this blog post, I’ll take you through the script I built for uploading multiple files to S3, step by step. If you're following along with the [Learn to Cloud guide](https://learntocloud.guide/), this project fits right in with the skills you're picking up.
 
 ## Script overview
 ---

@@ -2,7 +2,6 @@
 title = 'BoardGameGeek board games data fetching with Python'
 date = 2023-09-27T15:27:08+02:00
 slug = "boardgamegeek-python-data-fetching"
-
 +++
 
 ![Python Logo](/python-logo.png)

@@ -9,7 +9,7 @@ slug = "hackthebox-sau-writeup"
 ## Intro
 ---
 
-It's far too early in my journey, I suppose; there’s a lot to learn before that, since I don't know many of these things. But I've been looking into what’s needed to prepare for the OSCP eventually and if there are any labs that provide decent experience resembling the OSCP exam. I came across a repo by [Rana Khalil](https://www.linkedin.com/in/ranakhalil1/), which led me to a great [spreadsheet of labs](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#) by TJ_Null. These labs are supposedly a good way to start building practical skills for OSCP (be sure to check the PWK V3 tab). This's one of many — let's work through this box together.
+It's far too early in my journey, I suppose; there’s a lot to learn before that, since I don't know many of these things. But I've been looking into what’s needed to prepare for the OSCP eventually and if there are any labs that provide decent experience resembling the OSCP exam. I came across a repo by [Rana Khalil](https://www.linkedin.com/in/ranakhalil1/), which led me to a great [spreadsheet of labs](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#) by TJ_Null. These labs are supposedly a good way to start building practical skills for OSCP (be sure to check the PWK V3 tab). [This box](https://app.hackthebox.com/machines/Sau) is one of many — let's work through this box together.
 
 
 ## Nmap

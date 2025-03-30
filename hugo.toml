@@ -9,7 +9,7 @@ enableRobotsTXT = false
 
 [params]
 	colortheme = "dark"
-	description = "Hi, I’m Bojan — an IT and Cybersecurity enthusiast. This is my blog where I share everything I’m learning on my journey. I’m looking to expand my experience and am open to roles in IT, Security, or Cloud-related fields."
+	description = "Hi, I’m Bojan — an IT, Data and Cybersecurity enthusiast. This is my blog where I share everything I’m learning on my journey. I’m looking to expand my experience and am open to roles in IT, Data, Security, or Cloud-related fields."
 	mainSection = "posts"
 	mainSectionTitle = "posts"
 	projectsSectionTitle = "side projects"

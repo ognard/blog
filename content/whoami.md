@@ -3,7 +3,7 @@ title = 'Whoami'
 date = 2024-08-08T18:48:49+02:00
 +++
 
-I'm Bojan Drango, a multidisciplinary professional with experience in backend and frontend development, ui and product design, graphic art and illustration. I’m looking to expand my experience and am open to roles in IT, Security, or Cloud-related fields.
+I'm Bojan Drango, a multidisciplinary professional with experience in backend and frontend development, ui and product design, graphic art and illustration. I’m looking to expand my experience and am open to roles in IT, Data, Security, or Cloud-related fields.
 
 Get in touch through bojandrango|at|gmail|dot|me.
 
